@@ -1,0 +1,5 @@
+from dolil:
+khatiyan no
+dolil no
+amount
+owner user id
